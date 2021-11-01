@@ -5,7 +5,7 @@
     <router-link to="/">Back</router-link>
 
     <p>
-    Open this link in another browser window to chat 
+    Open this link in another browser window to chat (P.s you have to sign in Anonymously or login/Signup)
       <code>https://optimistic-volhard-d91a30.netlify.app/#/chats/{{ chatId }}</code>
     </p>
 
