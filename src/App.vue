@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <header>
-      <h1>Vue vortex</h1>
       <h1>Realtime Chat app</h1>
     </header>
 
