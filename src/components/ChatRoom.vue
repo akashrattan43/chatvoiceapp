@@ -6,7 +6,7 @@
 
     <p>
     Open this link in another browser window to chat 
-      <code>https://your-url.com/#/chats/{{ chatId }}</code>
+      <code>https://optimistic-volhard-d91a30.netlify.app/#/chats/{{ chatId }}</code>
     </p>
 
     <User #user="{ user }">
